@@ -5,9 +5,9 @@
 Pentesting is the art of hacking machines(boxes). In general the action of getting access to a user in a machine is called penetration testing.
 The reason of pentesting is trying to find vulnerabilities that could affect the system. Then you patch them to protect it.
 ### Steps of pentesting
-We can divide pentesting into 3 magors part.
+We can divide pentesting into 3 majors part.
 #### Basic Enumeration.
-Enumeration is the most improtant part in pentesting. And you don't use just as a 1st step but you will need at every moment. But for the sake of dividing this domaine we put it here as a step.
+Enumeration is the most improtant part in pentesting. And you don't use it just as a 1st step but you will need it at every moment. But for the sake of dividing this domaine we put it here as a step.
 Enumeration is simply knowing where to look and what to look for so that you get improtant informations about the system, maybe files... There are a lot of scripts that help you through this. The first one you use everytime when you try to pentest is NMAP. A simple powerful tool that gives you information about port opened on the server, what services are running on those ports, what versions, the operating system... And lot more.
 
 #### User Access.
@@ -15,7 +15,7 @@ After the enumeration you might find valuable informations that can get you acce
 
 #### Privilege Escalation.
 After getting the user access you're only next step is to try and get the root access. Becoming root on the system is and will always be your ultimate goal.
-In this as well there are many tools that will help you do it. We'll check them out later on.
+In this as well there are many tools that will help you do it.
 
 ## Resources.
 Here are some links that can help you learn and practice pentesting.
